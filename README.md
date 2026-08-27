@@ -1,6 +1,11 @@
 # Cananpng
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.2.21.
+This Project Is A Website For The Display Of My Photography 
+
+
+## Angular
+
+This project is based on a template that was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.2.21.
 
 ## Development server
 
