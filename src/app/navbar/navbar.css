@@ -1,9 +1,28 @@
 .navbar-main {
     background-color: rgb(48, 46, 46);
     color: rgb(0, 158, 21);
+
+    padding: 20px;
+
+    display: flex;
+    justify-content: space-between;
 }
 
 .title {
+    font-family: 'Fantasy';
+    font-size: 30px;
     font-weight: bold;
+    text-decoration: underline;
+}
+
+.navbar-options {
+    justify-content: center;
+    display: flex;
+    gap: 20px;
+}
+
+.navbutton {
+    font-family: 'Fantasy';
+    font-size: 30px;
     text-decoration: underline;
 }
