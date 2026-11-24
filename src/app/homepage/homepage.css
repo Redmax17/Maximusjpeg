@@ -17,7 +17,7 @@
 
     -webkit-text-stroke: 1.5px rgb(0, 0, 0);
 
-    text-shadow: 0px 0px 5px rgb(0, 0, 0);
+    text-shadow: 0px 0px 6px rgb(0, 0, 0);
 }
 
 .header-subtitle {
@@ -26,15 +26,15 @@
 
     gap: 40%;
 
-    padding-top: 64px;
+    padding-top: 90px;
 }
 
 .header-subtitle-text {
     font-family: fantasy;
-    font-size: 60px;
+    font-size: 64px;
     color: rgb(0, 158, 21);
 
     -webkit-text-stroke: 0.75px rgb(0, 0, 0);
 
-    text-shadow: 0px 0px 5px rgb(0, 0, 0);
+    text-shadow: 0px 0px 8px rgb(0, 0, 0);
 }
