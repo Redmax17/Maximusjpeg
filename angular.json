@@ -22,7 +22,8 @@
             "assets": [
               {
                 "glob": "**/*",
-                "input": "public"
+                "input": "media/test_photos",
+                "output": "src/assets"
               }
             ],
             "styles": [
