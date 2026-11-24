@@ -7,38 +7,34 @@
     justify-content: center;
     text-align: center;
 
-    padding: 4rem;
+    padding: 5%;
 }
 
 .header-title {
     font-family: fantasy;
-    font-size: 4rem;
+    font-size: 120px;
     color: rgb(0, 158, 21);
 
-    text-shadow: 
-        1px 0 0px rgb(0, 0, 0),
-        0 1px 0px rgb(0, 0, 0),
-        -1px 0 0px rgb(0, 0, 0),
-        0 -1px 0px rgb(0, 0, 0);
+    -webkit-text-stroke: 1.5px rgb(0, 0, 0);
+
+    text-shadow: 0px 0px 6px rgb(0, 0, 0);
 }
 
 .header-subtitle {
     display: flex;
     justify-content: center;
 
-    gap: 15rem;
+    gap: 40%;
 
-    padding: 1.5rem;
+    padding-top: 90px;
 }
 
 .header-subtitle-text {
     font-family: fantasy;
-    font-size: 2.5rem;
+    font-size: 64px;
     color: rgb(0, 158, 21);
 
-    text-shadow: 
-        1px 0 0px rgb(0, 0, 0),
-        0 1px 0px rgb(0, 0, 0),
-        -1px 0 0px rgb(0, 0, 0),
-        0 -1px 0px rgb(0, 0, 0);
+    -webkit-text-stroke: 0.75px rgb(0, 0, 0);
+
+    text-shadow: 0px 0px 8px rgb(0, 0, 0);
 }
