@@ -1,0 +1,9 @@
+.picwall-main {
+    display: flex;
+    justify-content: center;
+}
+
+.test-image {
+    width: 100px;
+    height: 100px;
+}
