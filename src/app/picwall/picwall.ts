@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { PicGetter } from '../pic-getter';
 
 @Component({
   selector: 'app-picwall',
@@ -6,4 +7,7 @@ import { Component } from '@angular/core';
   templateUrl: './picwall.html',
   styleUrl: './picwall.css',
 })
-export class Picwall {}
+export class Picwall {
+  constructor(private picGetter: PicGetter) {
+  }
+}
