@@ -25,9 +25,10 @@
     display: flex;
     justify-content: center;
 
-    gap: 40%;
+    gap: 35%;
 
     padding-top: 90px;
+    padding-right: 6%;
 }
 
 .header-subtitle-text {
